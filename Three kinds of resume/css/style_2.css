@@ -1,0 +1,24 @@
+*{
+	font-family: "黑体";
+}
+.con{
+	width: 1000px;
+	height: 700px;
+}
+h1{
+	display: block;
+	background: dodgerblue;
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin-top: 0px;
+	color: white;
+	text-align: center;
+	line-height: 160px;
+}
+.body_{
+	width: 80%;
+	height: 100%;
+	padding-top: 20px;
+	padding-left: 220px;
+}
